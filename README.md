@@ -1,6 +1,6 @@
 # First Create React App
 
-This is my first react app in which i have created a calculator using react hooks and basic css modules.
+This is my first react app in which i have created a ## calculator using react hooks and basic css modules.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
