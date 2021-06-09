@@ -1,4 +1,4 @@
-# First Create React App
+# First React App : Calculator
 
 This is my first react app in which i have created a calculator using react hooks and basic css modules.
 
