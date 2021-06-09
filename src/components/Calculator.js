@@ -7,6 +7,7 @@ function Calculator() {
         const [currentOperator, setCurrentOperator] = useState(null);
       
         useEffect(() => {
+          
           console.log(expression);
         }, [expression])
       
